@@ -13,7 +13,7 @@ import (
 	"syscall"
 	"testing"
 
-	"github.com/spf13/afero"
+	"github.com/mferrell/afero"
 )
 
 var files = []struct {
